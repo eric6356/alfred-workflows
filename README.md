@@ -19,3 +19,5 @@ Switch scroll direction for mouse and trackpad.
 # License
 [WTFPL](http://www.wtfpl.net/)
 
+# Icons
+[FA2PNG](http://fa2png.io/)
